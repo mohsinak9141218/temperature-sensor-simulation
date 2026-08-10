@@ -11,7 +11,3 @@ A Python-based project for simulating temperature sensor signals and basic senso
 - Temperature variation modeling
 - Python fundamentals
 
-## Future Improvements
-- Add graphical plots
-- Add noisy signal simulation
-- Add real-time visualization
